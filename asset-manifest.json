@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2b33dfe.chunk.css",
+    "main.js": "/static/js/main.d745eacc.chunk.js",
+    "main.js.map": "/static/js/main.d745eacc.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.b1043a32.chunk.js": "/static/js/2.b1043a32.chunk.js",
+    "static/js/2.b1043a32.chunk.js.map": "/static/js/2.b1043a32.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.965ccf1c38fa9801c458ed58937a0d8d.js": "/precache-manifest.965ccf1c38fa9801c458ed58937a0d8d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c2b33dfe.chunk.css.map": "/static/css/main.c2b33dfe.chunk.css.map",
+    "static/media/index.scss": "/static/media/cerapro-medium.f0950191.woff",
+    "static/media/contact.jpg": "/static/media/contact.d1422457.jpg",
+    "static/media/contact@2x.png": "/static/media/contact@2x.ff564837.png",
+    "static/media/duck-yellow.png": "/static/media/duck-yellow.18a0207b.png",
+    "static/media/Ticker.module.scss": "/static/media/duck.b8fa7c3c.png",
+    "static/media/intro.jpg": "/static/media/intro.2ec451b2.jpg",
+    "static/media/intro@2x.png": "/static/media/intro@2x.7824534b.png",
+    "static/media/logo.65a5825d.svg": "/static/media/logo.65a5825d.svg",
+    "static/media/project-1.png": "/static/media/project-1.561d5838.png",
+    "static/media/project-2.png": "/static/media/project-2.bfd203fd.png",
+    "static/media/project-3.png": "/static/media/project-3.f329904f.png",
+    "static/media/project-4.png": "/static/media/project-4.5cf22f01.png",
+    "static/media/project-5.png": "/static/media/project-5.a2fe0a48.png",
+    "static/media/project-6.png": "/static/media/project-6.f5b84555.png"
+  }
+}
